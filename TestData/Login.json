@@ -1,0 +1,22 @@
+
+{ 
+
+    "validUser":{
+        "username": "Admin",
+        "password": "admin123"
+
+    },
+    "invalidUser":{
+        "username": "wegew",
+        "password": "swgwsegqwf"   
+    },
+ 
+    "Contact_Details":{
+        "street1": "abcd",
+        "street2": "ghjkt",
+        "city": "mumbai",
+        "state":"Maharatra",
+        "postalcode":"123456"
+       
+    }
+}
